@@ -21,6 +21,9 @@ This project features an interactive Tableau dashboard titled **"Profit and Sale
 - `/data`: [Optional] Contains raw data files if applicable
 - `/images`: [Optional] Contains any images used in the dashboard or documentation
 
+## 🌐 Live Dashboard
+Explore the live dashboard here: [Profit and Sales Analysis Dashboard](https://public.tableau.com/app/profile/ankit5643/viz/ProfitSalesAnalysis_17301166295970/ProfitSalesAnalysis)
+
 ## 🛠️ Installation
 1. Clone the repository:
    ```bash
